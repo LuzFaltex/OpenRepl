@@ -1,5 +1,5 @@
 # OpenRepl
-An open-source REPL service with Docker support
+An open-source REPL service with Docker support. Designed to be used with the [MODiX](https://github.com/discord-csharp/MODiX) Discord bot's code eval feature.
 
 # Features
 Items will be checked-off as they're completed
@@ -13,3 +13,9 @@ Items will be checked-off as they're completed
 * [ ] VB Language Support. **State:** Not Started
 * [ ] C++ Language Support. **State:** Not Started
 * [ ] Java Language Support. **State:** Not Started
+
+# Build Instructions
+Coming Soon
+
+# Use Instructions
+Coming Soon (probably on the Wiki because this will be an involved process)
